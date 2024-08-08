@@ -41,8 +41,8 @@ AuthPortal
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/AuthPortal.git
-   cd AuthPortal
+   git clone https://github.com/Nithish0120/User_Authentication.git
+   cd mern_auth
    ```
 
 2. **Install dependencies:**
