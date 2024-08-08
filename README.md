@@ -9,26 +9,24 @@ Welcome to **AuthPortal**, a full-stack web application designed to make user au
 
 ## 📁 Folder Structure
 ```
-AuthPortal
+mern_auth
 │   README.md
 │   package.json
 │   .env
 │
 ├───backend
-│   ├── server.js
-│   ├── routes
-│   ├── models
-│   ├── controllers
-│   └── middleware
-│
+│   ├───config
+│   ├───controllers
+│   ├───middleware
+│   ├───models
+│   ├───routes
+│   └───utils
 └───frontend
-    ├── public
-    └── src
-        ├── components
-        ├── pages
-        ├── services
-        ├── App.js
-        └── index.js
+    ├───public
+    └───src
+        ├───components
+        ├───pages
+        └───slices
 ```
 
 ## 🚀 Getting Started
